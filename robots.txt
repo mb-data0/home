@@ -1,1 +1,1 @@
-Sitemap: https://github.com/mb-data0/mb-data0.github.io/sitemap.xml
+Sitemap: mb-data.com/sitemap.xml
