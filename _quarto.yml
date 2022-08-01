@@ -6,10 +6,15 @@ website:
   title: "mb-data"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - text: "About"
+      - text: Home
+        href: index.qmd
+      - text: About
         file: about.qmd
+      - text: "Tutorials"
+        #file: tutorials.qmd
+        menu:
+          - text: Learn R
+            href: /tutorial-LearnR
           
 
 
