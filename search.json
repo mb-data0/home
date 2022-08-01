@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "tutorials.html",
+    "href": "tutorials.html",
+    "title": "Tutorials",
+    "section": "",
+    "text": "Learn R - Take you from the basics of coding in R to importing and manipulating datasets, and eventually developing and publishing your own extension packages"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
