@@ -4,4 +4,4 @@ title: "Tutorials"
 
 There is currently only one tutorial available:
 
-- [Learn R](/tutorial-LearnR) - Take you from the basics of coding in R to importing and manipulating datasets, and eventually developing and publishing your own extension packages
+- [R:The Fundamentals](/tutorial-R-the-fundamentals) - Takes you through the basics of what every R coder should know, including good practices that will server you well as you advance through your R career

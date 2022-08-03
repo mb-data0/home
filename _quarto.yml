@@ -14,7 +14,7 @@ website:
         #file: tutorials.qmd
         menu:
           - text: Learn R
-            href: /tutorial-LearnR
+            href: /tutorial-R-the-fundamentals
           
 
 
